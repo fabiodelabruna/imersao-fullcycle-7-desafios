@@ -7,5 +7,5 @@
 
 Executando a imagem docker:
 ```
-docker run fabiodelabruna/codeeducation:latest
+docker run fabiodelabruna/codeeducation
 ```
