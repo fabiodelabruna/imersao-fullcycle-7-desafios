@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
-
 ## Desafio - Nest.js
 
 Neste desafio você deverá criar uma API REST que tenha dois endpoints:
@@ -42,7 +38,6 @@ Crie uma foto de uma parte interessante do seu código usando a Extensão "Code 
 ```
 GET /transactions
 ```
-
 ```
 POST transactions
 {
