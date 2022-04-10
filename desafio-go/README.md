@@ -18,5 +18,5 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 ## Rodando a aplicação
 
 ```bash
-docker run fabiodelabruna/codeeducation
+> docker run fabiodelabruna/codeeducation
 ```
