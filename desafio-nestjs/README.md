@@ -6,8 +6,12 @@
 
 Neste desafio você deverá criar uma API REST que tenha dois endpoints:
 
-```GET /transactions```
-```POST /transactions```
+```
+GET /transactions
+```
+```
+POST /transactions
+```
 
 Os dados da transação serão:
 
@@ -26,9 +30,11 @@ Crie uma foto de uma parte interessante do seu código usando a Extensão "Code 
 ## Rodando a aplicação
 
 ```bash
-git clone https://github.com/fabiodelabruna/imersao-fullcycle-7-desafios.git
-mkdir desafio-nestjs
-docker-compose up
+> git clone https://github.com/fabiodelabruna/imersao-fullcycle-7-desafios.git
+
+> mkdir desafio-nestjs
+
+> docker-compose up
 ```
 
 ## Testando a aplicação
