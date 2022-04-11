@@ -28,7 +28,7 @@ Crie uma foto de uma parte interessante do seu código usando a Extensão "Code 
 ```bash
 > git clone https://github.com/fabiodelabruna/imersao-fullcycle-7-desafios.git
 
-> mkdir desafio-nestjs
+> cd imersao-fullcycle-7-desafios/desafio-nestjs
 
 > docker-compose up
 ```
